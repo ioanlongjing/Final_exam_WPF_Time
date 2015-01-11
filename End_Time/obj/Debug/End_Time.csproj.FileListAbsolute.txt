@@ -1,0 +1,13 @@
+c:\users\ioan\documents\visual studio 2013\Projects\End_Time\End_Time\bin\Debug\End_Time.exe.config
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\obj\Debug\End_Time.csprojResolveAssemblyReference.cache
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\obj\Debug\App.g.cs
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\obj\Debug\End_Time_MarkupCompile.cache
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\obj\Debug\MainWindow.baml
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\obj\Debug\MainWindow.g.cs
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\obj\Debug\End_Time.g.resources
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\obj\Debug\End_Time.Properties.Resources.resources
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\obj\Debug\End_Time.csproj.GenerateResource.Cache
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\bin\Debug\End_Time.exe
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\bin\Debug\End_Time.pdb
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\obj\Debug\End_Time.exe
+C:\Users\Ioan\Documents\Visual Studio 2013\Projects\End_Time\End_Time\obj\Debug\End_Time.pdb
